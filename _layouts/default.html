@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <img src="{{ '/profile.jpg' | relative_url }}" alt="Profile Picture">
+            <h2>Your Name</h2>
+            <p>Welcome to my lab notebook! I study **Drosophila Y chromosome evolution**.</p>
+            <ul class="social-links">
+                <li><a href="https://github.com/shescodingoverhere">GitHub</a></li>
+                <li><a href="https://twitter.com/your-handle">Twitter</a></li>
+                <li><a href="https://linkedin.com/in/taylorconway2">LinkedIn</a></li>
+                <li><a href="https://scholar.google.com/citations?user=your-id">Google Scholar</a></li>
+                <li><a href="https://orcid.org/your-orcid-id">ORCID</a></li>
+                <li><a href="/CV.pdf">CV</a></li>
+            </ul>
+        </aside>
+        <main class="content">
+            {{ content }}
+        </main>
+    </div>
+    <footer>
+        <p>© 2025 Your Name | <a href="/">Home</a> | <a href="/research">Research</a> | <a href="/teaching">Teaching</a> | <a href="/code">Code</a></p>
+    </footer>
+</body>
+</html>
