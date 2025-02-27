@@ -1,3 +1,16 @@
 title: "My Lab Notebook"
 description: "A Jekyll-based online lab notebook for my research."
 theme: jekyll-theme-minimal
+
+# Navigation menu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research"
+  - title: "Teaching"
+    url: "/teaching"
+  - title: "Code"
+    url: "/code"
+  - title: "Presentations"
+    url: "/presentations"
