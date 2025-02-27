@@ -10,17 +10,20 @@
     <div class="container">
         <aside class="sidebar">
             <img src="{{ '/profile.jpg' | relative_url }}" alt="Profile Picture">
-            <h2>Your Name</h2>
-            <p>Welcome to my lab notebook! I study **Drosophila Y chromosome evolution**.</p>
-            <ul class="social-links">
-                <li><a href="https://github.com/shescodingoverhere">GitHub</a></li>
-                <li><a href="https://twitter.com/your-handle">Twitter</a></li>
-                <li><a href="https://linkedin.com/in/taylorconway2">LinkedIn</a></li>
-                <li><a href="https://scholar.google.com/citations?user=your-id">Google Scholar</a></li>
-                <li><a href="https://orcid.org/your-orcid-id">ORCID</a></li>
-                <li><a href="/CV.pdf">CV</a></li>
-            </ul>
+            <h2>Taylor Conway</h2>
+            <p>Welcome to my lab notebook! I research **Drosophila Y chromosome evolution**.</p>
+
+            <nav>
+                <ul>
+                    <li><a href="/">🏠 Home</a></li>
+                    <li><a href="/research">🔬 Research</a></li>
+                    <li><a href="/teaching">📚 Teaching</a></li>
+                    <li><a href="/code">💻 Code</a></li>
+                    <li><a href="/cv.pdf">📄 CV</a></li>
+                </ul>
+            </nav>
         </aside>
+
         <main class="content">
             {{ content }}
         </main>
