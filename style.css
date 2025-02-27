@@ -25,12 +25,6 @@ body {
     top: 0;
 }
 
-.sidebar img {
-    width: 100%;
-    border-radius: 50%;
-    margin-bottom: 15px;
-}
-
 .sidebar h2 {
     text-align: center;
 }
