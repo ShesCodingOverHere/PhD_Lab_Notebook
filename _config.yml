@@ -14,3 +14,12 @@ navigation:
     url: "/code"
   - title: "Presentations"
     url: "/presentations"
+
+# Social Media & CV
+social:
+  GitHub: "https://github.com/shescodingoverhere"
+  #BlueSky: "https://twitter.com/your-handle"
+  LinkedIn: "https://linkedin.com/in/taylorconway2"
+  #GoogleScholar: "https://scholar.google.com/citations?user=your-id"
+  #ORCID: "https://orcid.org/your-orcid-id"
+  CV: "CV.pdf"
