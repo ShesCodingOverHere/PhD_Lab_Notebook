@@ -7,8 +7,8 @@ body {
 
 .container {
     display: flex;
-    max-width: 1200px;
-    margin: auto;
+    max-width: 100%;
+    margin: 0;
 }
 
 .sidebar {
@@ -18,36 +18,17 @@ body {
     padding: 20px;
     height: 100vh;
     position: fixed;
-}
-
-.sidebar img {
-    width: 100%;
-    border-radius: 50%;
-    margin-bottom: 10px;
-}
-
-.sidebar h2 {
-    text-align: center;
-}
-
-.social-links {
-    list-style: none;
-    padding: 0;
-}
-
-.social-links li {
-    margin: 10px 0;
-}
-
-.social-links a {
-    color: #ecf0f1;
-    text-decoration: none;
+    left: 0;
+    top: 0;
 }
 
 .content {
-    margin-left: 270px;
+    margin-left: 270px; /* Adjusted to match sidebar width */
     padding: 20px;
+    width: calc(100% - 270px); /* Ensure content fills available space */
+    max-width: 800px; /* Optional: Adjust for readability */
 }
+
 
 footer {
     text-align: center;
