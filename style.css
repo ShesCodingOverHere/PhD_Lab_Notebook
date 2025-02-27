@@ -27,6 +27,12 @@ body {
 
 .sidebar h2 {
     text-align: center;
+    margin-bottom: 10px;
+}
+
+.sidebar p {
+    font-size: 14px;
+    text-align: center;
 }
 
 .sidebar nav ul {
