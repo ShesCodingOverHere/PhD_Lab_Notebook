@@ -2,10 +2,11 @@
 title: "Welcome to My Lab Notebook"
 ---
 
-# Research Notebook
+# Online Lab Notebook
 
-Welcome to my lab notebook! Here, I document my research on **Drosophila Y chromosome evolution**.
+Welcome to my lab notebook! This site documents my **research**, **teaching**, and **code**.
 
-## Entries
-
-- [Example Entry](entries/2025-02-27.md)
+## Sections
+- [Research](research)
+- [Teaching](teaching)
+- [Code](code)
