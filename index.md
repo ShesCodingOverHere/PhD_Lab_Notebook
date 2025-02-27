@@ -1,5 +1,6 @@
 ---
 title: "Welcome to My Lab Notebook"
+layout: default
 ---
 
 # Online Lab Notebook
