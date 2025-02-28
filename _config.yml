@@ -7,13 +7,11 @@ navigation:
   - title: "Home"
     url: "/"
   - title: "Research"
-    url: "/research"
+    url: "/Research"
   - title: "Teaching"
-    url: "/teaching"
-  - title: "Code"
-    url: "/code"
-  - title: "Presentations"
-    url: "/presentations"
+    url: "/Teaching"
+  - title: "Protocols"
+    url: "/Protocols"
 
 # Social Media & CV
 social:
