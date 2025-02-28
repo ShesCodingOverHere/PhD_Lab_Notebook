@@ -9,4 +9,6 @@ Welcome to my research section! Here, I document my experiments, results, and an
 
 ## Entries
 
-- [D. affinis](Research/daffinis.md)
+- [D. affinis](Research/Daffinis.pdf)
+- [D. algonquin](Research/Dalgonquin.pdf)
+- [D. azteca](Research/Dazteca.pdf)
