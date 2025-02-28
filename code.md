@@ -1,13 +1,11 @@
 ---
-title: "Code"
+title: "Protocols"
 layout: default
 ---
 
-# Code Repository
-
-This section contains scripts and code snippets for research and teaching.
+# Protocol Repository
 
 ## Entries
 
-- [Drosophila Y Chromosome Analysis Script](code/y_analysis.py)
-- [Data Processing Pipeline](code/data_pipeline.py)
+- [Drosophila Y Chromosome Analysis Script](Protocols/Cage_and_backcrossing_protocol.md)
+- [Data Processing Pipeline](Protocols/sperm_comp_protocol.md)
