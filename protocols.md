@@ -7,5 +7,5 @@ layout: default
 
 ## Entries
 
-- [Drosophila Y Chromosome Analysis Script](Protocols/Cage_and_backcrossing_protocol.md)
-- [Data Processing Pipeline](Protocols/sperm_comp_protocol.md)
+- [Cages and backcrossing](Protocols/Cage_and_backcrossing_protocol.md)
+- [Sperm Competition - Mate Selection](Protocols/sperm_comp_protocol.md)
