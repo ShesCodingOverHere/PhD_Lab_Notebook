@@ -3,12 +3,12 @@ title: "Welcome to My Lab Notebook"
 layout: default
 ---
 
-# Online Lab Notebook
+# Welcome to My Lab Notebook
 
-Welcome to my lab notebook! This site documents my **research**, **teaching**, and **code**.
+This is my online lab notebook where I document **research, teaching, and protocols**.
 
 ## Sections
-- [Research](Research)
-- [Teaching](Teaching)
-- [Protocols](Protocols)
+- [Research](research.md)
+- [Teaching](teaching.md)
+- [Protocols](protocols.md)
 - [CV](CV.pdf)
