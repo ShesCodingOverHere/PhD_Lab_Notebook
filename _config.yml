@@ -1,10 +1,8 @@
 title: "My Lab Notebook"
-description: "A simple, clean online lab notebook documenting research, teaching, and coding."
+description: "A simple, clean online lab notebook documenting research, teaching, and protocols."
 
-# Theme (default Jekyll themes work with GitHub Pages)
 theme: jekyll-theme-minimal
 
-# Navigation Links (No Sidebar)
 navigation:
   - title: "Home"
     url: "/"
