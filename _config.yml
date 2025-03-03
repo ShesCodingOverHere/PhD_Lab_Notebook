@@ -1,8 +1,10 @@
 title: "My Lab Notebook"
-description: "A Jekyll-based online lab notebook for my research."
+description: "A simple, clean online lab notebook documenting research, teaching, and coding."
+
+# Theme (default Jekyll themes work with GitHub Pages)
 theme: jekyll-theme-minimal
 
-# Navigation menu
+# Navigation Links (No Sidebar)
 navigation:
   - title: "Home"
     url: "/"
@@ -12,12 +14,5 @@ navigation:
     url: "/Teaching"
   - title: "Protocols"
     url: "/Protocols"
-
-# Social Media & CV
-social:
-  GitHub: "https://github.com/shescodingoverhere"
-  #BlueSky: "https://twitter.com/your-handle"
-  LinkedIn: "https://linkedin.com/in/taylorconway2"
-  #GoogleScholar: "https://scholar.google.com/citations?user=your-id"
-  #ORCID: "https://orcid.org/your-orcid-id"
-  CV: "CV.pdf"
+  - title: "CV"
+    url: "/CV.pdf"
