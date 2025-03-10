@@ -12,3 +12,4 @@ Welcome to my research section! Here, I document my experiments, results, and an
 - [D. affinis](Research/Daffinis.pdf)
 - [D. algonquin](Research/Dalgonquin.pdf)
 - [D. azteca](Research/Dazteca.pdf)
+- [D. narragansett](Research/Dnarragansett.pdf)
